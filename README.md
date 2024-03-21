@@ -31,18 +31,6 @@ This is a habit tracking app that allows users to login/sign up using Firebase A
 
 This project has been developed for educational purposes and is intended to be used as part of the Project Workshop for the Google Developer's Student Club at the University of British Columbia, Vancouver. To fully leverage the potential of this repository, we recommend referring to the Branches section and reviewing the branches in a sequential order to gain a comprehensive understanding of the app development process.
 
-# Google Developer's Student Club ⚛️
-
-This open source project is organized by the 2022-2023 Tech Team at UBC Google Developer's Student Club including [Mayank Rastogi], [Ashkan Gharahgozli], and [Andrew Lee], with the goal of teaching GDSC members full stack React Native development.
-
-[ashkan gharahgozli]: https://www.linkedin.com/in/ashgozli
-[mayank rastogi]: https://www.linkedin.com/in/mayankrastogi02/
-[andrew lee]: https://www.linkedin.com/in/andrew-lee-0897aa210/
-
-GDSC (Google Developers Student Club) is an initiative by Google that offers students a platform to learn, collaborate and work on technical projects in diverse fields like mobile and web development, machine learning, and more. Members of the program have access to various resources, workshops, and events that help in developing their skills and enhancing their knowledge as developers.
-
-By contributing to this project, GDSC members can gain practical experience with React Native and Google Cloud Platform while making valuable contributions to the open-source community.
-
 # Features :sparkles:
 
 - User authentication with Firebase Authentication
@@ -50,29 +38,6 @@ By contributing to this project, GDSC members can gain practical experience with
 - Mark habits as complete or incomplete
 - View a calendar to track habit completion over time
 
-# Branches
-
-This project consists of 4 branches that will help readers go through the process of app development in a sequential and logical order.
-The branches are named as [Branch_Name][step]. Please see below for the detailed topics covered by each branch.
-
-1.  Set up **Basic Project Structure ~ 1 hour**
-
-    1. Folders: Create directories for your components, screens, assets, and other  
-       resources.
-    2. App.js: Create an App.js file where you will initialize.
-       your app and set up any necessary configurations.
-    3. Navigation: Set up navigation so users can move between screens within your app.
-
-2.  **Build UI:** ~ **1 hour**
-    1. Start building your pages.
-    2. Ignore any backend for now.
-    3. Hardcoding data helps visualize app and also in testing.
-    4. Make use of CSS libraries like _Tailwind_ and use component libraries like DaisyUI.
-    
-3.  **Authentication: ~ 1 hour**
-    1.  Choose an authentication provider like _Firebase_.
-    2.  Set up user sign-up and sign-in screens.
-    3.  Implement logic to handle user authentication and authorization.
 
 # Getting Started 💻
 
